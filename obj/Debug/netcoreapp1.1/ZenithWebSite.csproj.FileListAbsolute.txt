@@ -1,0 +1,11 @@
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\bin\Debug\netcoreapp1.1\ZenithWebSite.db
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\bin\Debug\netcoreapp1.1\ZenithWebSite.deps.json
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\bin\Debug\netcoreapp1.1\ZenithWebSite.runtimeconfig.json
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\bin\Debug\netcoreapp1.1\ZenithWebSite.runtimeconfig.dev.json
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\bin\Debug\netcoreapp1.1\ZenithWebSite.dll
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\bin\Debug\netcoreapp1.1\ZenithWebSite.pdb
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\obj\Debug\netcoreapp1.1\ZenithWebSite.AssemblyInfo.cs
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\obj\Debug\netcoreapp1.1\ZenithWebSite.dll
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\obj\Debug\netcoreapp1.1\ZenithWebSite.pdb
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\obj\Debug\netcoreapp1.1\ZenithWebSite.csprojResolveAssemblyReference.cache
+C:\Users\tjang\Desktop\assignment2\ZenithWebSite\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
